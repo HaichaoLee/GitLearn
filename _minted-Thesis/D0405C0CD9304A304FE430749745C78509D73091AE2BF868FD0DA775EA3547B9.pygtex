@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git checkout master
+Switched to branch \PYG{l+s+s1}{\PYGZsq{}master\PYGZsq{}}
+Your branch is ahead of \PYG{l+s+s1}{\PYGZsq{}origin/master\PYGZsq{}} by \PYG{l+m}{1} commit.
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git push\PYGZdq{}} to publish your \PYG{n+nb}{local} commits\PYG{o}{)}
+\end{Verbatim}

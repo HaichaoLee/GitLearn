@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git reset HEAD readme.txt
+Unstaged changes after reset:
+M\PYGZca{}\PYGZca{}Ireadme.txt
+\end{Verbatim}

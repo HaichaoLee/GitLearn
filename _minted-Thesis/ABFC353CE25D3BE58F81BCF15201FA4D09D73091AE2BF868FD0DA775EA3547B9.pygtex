@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git log \PYGZhy{}\PYGZhy{}graph \PYGZhy{}\PYGZhy{}pretty\PYG{o}{=}oneline \PYGZhy{}\PYGZhy{}abbrev\PYGZhy{}commit
+*   e1e9c68 \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master\PYG{o}{)} merge with no\PYGZhy{}ff
+\PYG{p}{|}\PYG{l+s+se}{\PYGZbs{}}
+\PYG{p}{|} * f52c633 \PYG{o}{(}dev\PYG{o}{)} add merge
+\PYG{p}{|}/
+*   cf810e4 conflict fixed
+...
+\end{Verbatim}

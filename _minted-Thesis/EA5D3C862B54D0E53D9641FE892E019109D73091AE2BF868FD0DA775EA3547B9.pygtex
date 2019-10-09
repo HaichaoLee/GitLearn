@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git branch \PYGZhy{}\PYGZhy{}set\PYGZhy{}upstream\PYGZhy{}to\PYG{o}{=}origin/dev dev
+Branch \PYG{l+s+s1}{\PYGZsq{}dev\PYGZsq{}} \PYG{n+nb}{set} up to track remote branch \PYG{l+s+s1}{\PYGZsq{}dev\PYGZsq{}} from \PYG{l+s+s1}{\PYGZsq{}origin\PYGZsq{}}.
+\end{Verbatim}

@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+The authenticity of host \PYG{l+s+s1}{\PYGZsq{}github.com (xx.xx.xx.xx)\PYGZsq{}} can\PYG{err}{\PYGZsq{}}t be established.
+RSA key fingerprint is xx.xx.xx.xx.xx.
+Are you sure you want to \PYG{k}{continue} connecting \PYG{o}{(}yes/no\PYG{o}{)}?
+\end{Verbatim}

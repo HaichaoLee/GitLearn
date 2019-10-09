@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+\PYG{o}{\PYGZlt{}\PYGZlt{}\PYGZlt{}\PYGZlt{}\PYGZlt{}\PYGZlt{}}\PYGZlt{} HEAD
+Creating a new branch is quick \PYG{p}{\PYGZam{}} simple.
+\PYG{o}{=======}
+Creating a new branch is quick AND simple.
+\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{} feature1
+Git用\PYG{o}{\PYGZlt{}\PYGZlt{}\PYGZlt{}\PYGZlt{}\PYGZlt{}\PYGZlt{}}\PYGZlt{}，\PYG{o}{=======}，\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}\PYGZgt{}标记出不同分支的内容，我们修改如下后保存：
+
+Creating a new branch is quick and simple.
+\end{Verbatim}

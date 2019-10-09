@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git add readme.txt
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}\PYGZam{} simple\PYGZdq{}}
+\PYG{o}{[}master 5dc6824\PYG{o}{]} \PYG{p}{\PYGZam{}} simple
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}, \PYG{l+m}{1} deletion\PYG{o}{(}\PYGZhy{}\PYG{o}{)}
+\end{Verbatim}

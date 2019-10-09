@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git checkout dev
+Switched to branch \PYG{l+s+s1}{\PYGZsq{}dev\PYGZsq{}}
+
+\PYGZdl{} git status
+On branch dev
+nothing to commit, working tree clean
+\end{Verbatim}

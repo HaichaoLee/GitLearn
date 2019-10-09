@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} Python:}
+*.py\PYG{o}{[}cod\PYG{o}{]}
+*.so
+*.egg
+*.egg\PYGZhy{}info
+dist
+build
+\end{Verbatim}

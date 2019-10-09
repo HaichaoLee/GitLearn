@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git show v0.9
+commit f52c63349bc3c1593499807e5c8e972b82c8f286 \PYG{o}{(}tag: v0.9\PYG{o}{)}
+Author: Michael Liao \PYGZlt{}askxuefeng@gmail.com\PYGZgt{}
+Date:   Fri May \PYG{l+m}{18} \PYG{l+m}{21}:56:54 \PYG{l+m}{2018} +0800
+
+    add merge
+
+diff \PYGZhy{}\PYGZhy{}git a/readme.txt b/readme.txt
+...
+\end{Verbatim}

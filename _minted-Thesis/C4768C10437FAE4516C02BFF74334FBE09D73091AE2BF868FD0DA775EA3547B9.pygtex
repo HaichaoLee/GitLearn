@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git config \PYGZhy{}\PYGZhy{}global alias.co checkout
+\PYGZdl{} git config \PYGZhy{}\PYGZhy{}global alias.ci commit
+\PYGZdl{} git config \PYGZhy{}\PYGZhy{}global alias.br branch
+\end{Verbatim}

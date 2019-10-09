@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git
+The program \PYG{l+s+s1}{\PYGZsq{}git\PYGZsq{}} is currently not installed.
+You can install it by typing:
+
+sudo apt\PYGZhy{}get install git
+\end{Verbatim}

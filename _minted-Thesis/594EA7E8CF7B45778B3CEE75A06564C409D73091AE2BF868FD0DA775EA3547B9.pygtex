@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git diff readme.txt
+diff \PYGZhy{}\PYGZhy{}git a/readme.txt b/readme.txt
+index 46d49bf..9247db6 \PYG{l+m}{100644}
+\PYGZhy{}\PYGZhy{}\PYGZhy{} a/readme.txt
++++ b/readme.txt
+@@ \PYGZhy{}1,2 +1,2 @@
+\PYGZhy{}Git is a version control system.
++Git is a distributed version control system.
+ Git is free software.
+\end{Verbatim}

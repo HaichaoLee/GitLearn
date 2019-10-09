@@ -1,0 +1,18 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} Windows:}
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+\PYG{c+c1}{\PYGZsh{} Python:}
+*.py\PYG{o}{[}cod\PYG{o}{]}
+*.so
+*.egg
+*.egg\PYGZhy{}info
+dist
+build
+
+\PYG{c+c1}{\PYGZsh{} My configurations:}
+db.ini
+deploy\PYGZus{}key\PYGZus{}rsa
+\end{Verbatim}

@@ -1,0 +1,17 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git show v0.1
+tag v0.1
+Tagger: Michael Liao \PYGZlt{}askxuefeng@gmail.com\PYGZgt{}
+Date:   Fri May \PYG{l+m}{18} \PYG{l+m}{22}:48:43 \PYG{l+m}{2018} +0800
+
+version \PYG{l+m}{0}.1 released
+
+commit 1094adb7b9b3807259d8cb349e7df1d4d6477073 \PYG{o}{(}tag: v0.1\PYG{o}{)}
+Author: Michael Liao \PYGZlt{}askxuefeng@gmail.com\PYGZgt{}
+Date:   Fri May \PYG{l+m}{18} \PYG{l+m}{21}:06:15 \PYG{l+m}{2018} +0800
+
+    append GPL
+
+diff \PYGZhy{}\PYGZhy{}git a/readme.txt b/readme.txt
+...
+\end{Verbatim}

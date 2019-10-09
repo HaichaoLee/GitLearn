@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+git remote \PYGZhy{}v
+gitee\PYGZca{}\PYGZca{}Igit@gitee.com:liaoxuefeng/learngit.git \PYG{o}{(}fetch\PYG{o}{)}
+gitee\PYGZca{}\PYGZca{}Igit@gitee.com:liaoxuefeng/learngit.git \PYG{o}{(}push\PYG{o}{)}
+github\PYGZca{}\PYGZca{}Igit@github.com:michaelliao/learngit.git \PYG{o}{(}fetch\PYG{o}{)}
+github\PYGZca{}\PYGZca{}Igit@github.com:michaelliao/learngit.git \PYG{o}{(}push\PYG{o}{)}
+\end{Verbatim}

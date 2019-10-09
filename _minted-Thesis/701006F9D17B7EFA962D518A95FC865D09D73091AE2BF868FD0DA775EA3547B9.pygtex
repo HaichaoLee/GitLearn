@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git pull
+Auto\PYGZhy{}merging env.txt
+CONFLICT \PYG{o}{(}add/add\PYG{o}{)}: Merge conflict in env.txt
+Automatic merge failed\PYG{p}{;} fix conflicts and \PYG{k}{then} commit the result.
+\end{Verbatim}

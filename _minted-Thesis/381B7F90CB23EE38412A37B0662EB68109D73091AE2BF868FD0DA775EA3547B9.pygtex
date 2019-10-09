@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git branch
+* dev
+  master
+\PYGZdl{} git cherry\PYGZhy{}pick 4c805e2
+\PYG{o}{[}master 1d4b803\PYG{o}{]} fix bug \PYG{l+m}{101}
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}, \PYG{l+m}{1} deletion\PYG{o}{(}\PYGZhy{}\PYG{o}{)}
+\end{Verbatim}

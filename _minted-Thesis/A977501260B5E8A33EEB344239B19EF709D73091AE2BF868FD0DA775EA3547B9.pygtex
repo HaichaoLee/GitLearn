@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+Mac:\PYGZti{}/learngit michael\PYGZdl{} git push origin master
+Counting objects: \PYG{l+m}{6}, \PYG{k}{done}.
+Delta compression using up to \PYG{l+m}{4} threads.
+Compressing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{5}/5\PYG{o}{)}, \PYG{k}{done}.
+Writing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{6}/6\PYG{o}{)}, \PYG{l+m}{576} bytes \PYG{p}{|} \PYG{l+m}{576}.00 KiB/s, \PYG{k}{done}.
+Total \PYG{l+m}{6} \PYG{o}{(}delta \PYG{l+m}{2}\PYG{o}{)}, reused \PYG{l+m}{0} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}
+remote: Resolving deltas: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{2}/2\PYG{o}{)}, completed with \PYG{l+m}{1} \PYG{n+nb}{local} object.
+To github.com:michaelliao/learngit.git
+   f005ed4..7e61ed4  master \PYGZhy{}\PYGZgt{} master
+\end{Verbatim}

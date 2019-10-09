@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git reset \PYGZhy{}\PYGZhy{}hard HEAD\PYGZca{}
+HEAD is now at e475afc add distributed
+\end{Verbatim}

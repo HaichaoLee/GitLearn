@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+git remote add origin git@gitee.com:liaoxuefeng/learngit.git
+fatal: remote origin already exists.
+\end{Verbatim}

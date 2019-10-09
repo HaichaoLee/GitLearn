@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git remote \PYGZhy{}v
+origin  git@github.com:michaelliao/learngit.git \PYG{o}{(}fetch\PYG{o}{)}
+origin  git@github.com:michaelliao/learngit.git \PYG{o}{(}push\PYG{o}{)}
+\end{Verbatim}

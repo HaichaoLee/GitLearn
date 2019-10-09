@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git branch \PYGZhy{}d feature1
+Deleted branch feature1 \PYG{o}{(}was 14096d0\PYG{o}{)}.
+\end{Verbatim}

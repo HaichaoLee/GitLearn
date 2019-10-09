@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git rm test.txt
+rm \PYG{l+s+s1}{\PYGZsq{}test.txt\PYGZsq{}}
+
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}remove test.txt\PYGZdq{}}
+\PYG{o}{[}master d46f35e\PYG{o}{]} remove test.txt
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} deletion\PYG{o}{(}\PYGZhy{}\PYG{o}{)}
+ delete mode \PYG{l+m}{100644} test.txt
+\end{Verbatim}

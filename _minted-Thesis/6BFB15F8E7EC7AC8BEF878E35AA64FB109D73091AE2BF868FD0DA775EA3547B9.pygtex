@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git diff HEAD \PYGZhy{}\PYGZhy{} readme.txt
+diff \PYGZhy{}\PYGZhy{}git a/readme.txt b/readme.txt
+index 76d770f..a9c5755 \PYG{l+m}{100644}
+\PYGZhy{}\PYGZhy{}\PYGZhy{} a/readme.txt
++++ b/readme.txt
+@@ \PYGZhy{}1,4 +1,4 @@
+ Git is a distributed version control system.
+ Git is free software distributed under the GPL.
+ Git has a mutable index called stage.
+\PYGZhy{}Git tracks changes.
++Git tracks changes of files.
+\end{Verbatim}

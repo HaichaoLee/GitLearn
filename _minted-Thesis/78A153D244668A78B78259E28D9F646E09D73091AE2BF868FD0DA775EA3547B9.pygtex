@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git status
+On branch master
+Changes to be committed:
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git reset HEAD \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to unstage\PYG{o}{)}
+
+\PYGZca{}\PYGZca{}Inew file:   LICENSE
+\PYGZca{}\PYGZca{}Imodified:   readme.txt
+\end{Verbatim}

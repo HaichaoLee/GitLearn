@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git status
+On branch master
+Your branch is ahead of \PYG{l+s+s1}{\PYGZsq{}origin/master\PYGZsq{}} by \PYG{l+m}{3} commits.
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git push\PYGZdq{}} to publish your \PYG{n+nb}{local} commits\PYG{o}{)}
+
+nothing to commit, working tree clean
+\end{Verbatim}

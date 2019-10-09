@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git checkout \PYGZhy{}\PYGZhy{} readme.txt
+
+\PYGZdl{} git status
+On branch master
+nothing to commit, working tree clean
+\end{Verbatim}

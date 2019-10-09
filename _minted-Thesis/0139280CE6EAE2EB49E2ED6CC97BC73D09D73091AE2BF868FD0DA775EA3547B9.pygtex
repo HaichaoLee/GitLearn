@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git check\PYGZhy{}ignore \PYGZhy{}v App.class
+.gitignore:3:*.class\PYGZca{}\PYGZca{}IApp.class
+\end{Verbatim}

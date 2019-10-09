@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git merge \PYGZhy{}\PYGZhy{}no\PYGZhy{}ff \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}merge with no\PYGZhy{}ff\PYGZdq{}} dev
+Merge made by the \PYG{l+s+s1}{\PYGZsq{}recursive\PYGZsq{}} strategy.
+ readme.txt \PYG{p}{|} \PYG{l+m}{1} +
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+\end{Verbatim}

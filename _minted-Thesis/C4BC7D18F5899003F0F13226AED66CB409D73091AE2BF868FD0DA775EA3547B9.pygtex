@@ -1,0 +1,17 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git add env.txt
+
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}add env\PYGZdq{}}
+\PYG{o}{[}dev 7a5e5dd\PYG{o}{]} add env
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+ create mode \PYG{l+m}{100644} env.txt
+
+\PYGZdl{} git push origin dev
+Counting objects: \PYG{l+m}{3}, \PYG{k}{done}.
+Delta compression using up to \PYG{l+m}{4} threads.
+Compressing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{2}/2\PYG{o}{)}, \PYG{k}{done}.
+Writing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{3}/3\PYG{o}{)}, \PYG{l+m}{308} bytes \PYG{p}{|} \PYG{l+m}{308}.00 KiB/s, \PYG{k}{done}.
+Total \PYG{l+m}{3} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}, reused \PYG{l+m}{0} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}
+To github.com:michaelliao/learngit.git
+   f52c633..7a5e5dd  dev \PYGZhy{}\PYGZgt{} dev
+\end{Verbatim}

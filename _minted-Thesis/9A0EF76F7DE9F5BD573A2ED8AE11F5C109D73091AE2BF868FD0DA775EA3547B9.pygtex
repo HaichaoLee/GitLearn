@@ -1,0 +1,12 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git pull
+There is no tracking information \PYG{k}{for} the current branch.
+Please specify which branch you want to merge with.
+See git\PYGZhy{}pull\PYG{o}{(}\PYG{l+m}{1}\PYG{o}{)} \PYG{k}{for} details.
+
+    git pull \PYGZlt{}remote\PYGZgt{} \PYGZlt{}branch\PYGZgt{}
+
+If you wish to \PYG{n+nb}{set} tracking information \PYG{k}{for} this branch you can \PYG{k}{do} so with:
+
+    git branch \PYGZhy{}\PYGZhy{}set\PYGZhy{}upstream\PYGZhy{}to\PYG{o}{=}origin/\PYGZlt{}branch\PYGZgt{} dev
+\end{Verbatim}

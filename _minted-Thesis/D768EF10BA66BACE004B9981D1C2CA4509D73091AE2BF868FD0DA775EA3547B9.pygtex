@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git pull
+remote: Counting objects: \PYG{l+m}{3}, \PYG{k}{done}.
+remote: Compressing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{1}/1\PYG{o}{)}, \PYG{k}{done}.
+remote: Total \PYG{l+m}{3} \PYG{o}{(}delta \PYG{l+m}{1}\PYG{o}{)}, reused \PYG{l+m}{3} \PYG{o}{(}delta \PYG{l+m}{1}\PYG{o}{)}, pack\PYGZhy{}reused \PYG{l+m}{0}
+Unpacking objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{3}/3\PYG{o}{)}, \PYG{k}{done}.
+From github.com:michaelliao/learngit
+   d1be385..f005ed4  master     \PYGZhy{}\PYGZgt{} origin/master
+ * \PYG{o}{[}new tag\PYG{o}{]}         v1.0       \PYGZhy{}\PYGZgt{} v1.0
+Auto\PYGZhy{}merging hello.py
+Merge made by the \PYG{l+s+s1}{\PYGZsq{}recursive\PYGZsq{}} strategy.
+ hello.py \PYG{p}{|} \PYG{l+m}{1} +
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+\end{Verbatim}

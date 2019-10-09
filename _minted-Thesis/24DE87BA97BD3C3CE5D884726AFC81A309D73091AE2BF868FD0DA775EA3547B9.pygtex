@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git add test.txt
+
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}add test.txt\PYGZdq{}}
+\PYG{o}{[}master b84166e\PYG{o}{]} add test.txt
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+ create mode \PYG{l+m}{100644} test.txt
+\end{Verbatim}

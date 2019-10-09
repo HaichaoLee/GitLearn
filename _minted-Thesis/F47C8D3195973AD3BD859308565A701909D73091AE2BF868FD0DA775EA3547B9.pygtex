@@ -1,0 +1,16 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git stash pop
+On branch dev
+Changes to be committed:
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git reset HEAD \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to unstage\PYG{o}{)}
+
+\PYGZca{}\PYGZca{}Inew file:   hello.py
+
+Changes not staged \PYG{k}{for} commit:
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git add \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to update what will be committed\PYG{o}{)}
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git checkout \PYGZhy{}\PYGZhy{} \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to discard changes in working directory\PYG{o}{)}
+
+\PYGZca{}\PYGZca{}Imodified:   readme.txt
+
+Dropped refs/stash@\PYG{o}{\PYGZob{}}\PYG{l+m}{0}\PYG{o}{\PYGZcb{}} \PYG{o}{(}5d677e2ee266f39ea296182fb2354265b91b3b2a\PYG{o}{)}
+\end{Verbatim}

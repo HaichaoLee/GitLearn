@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git merge feature1
+Auto\PYGZhy{}merging readme.txt
+CONFLICT \PYG{o}{(}content\PYG{o}{)}: Merge conflict in readme.txt
+Automatic merge failed\PYG{p}{;} fix conflicts and \PYG{k}{then} commit the result.
+\end{Verbatim}

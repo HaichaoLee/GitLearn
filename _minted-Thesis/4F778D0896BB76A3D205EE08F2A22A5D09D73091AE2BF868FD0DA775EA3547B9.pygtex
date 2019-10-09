@@ -1,0 +1,18 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git log \PYGZhy{}\PYGZhy{}pretty\PYG{o}{=}oneline \PYGZhy{}\PYGZhy{}abbrev\PYGZhy{}commit
+12a631b \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master, tag: v1.0, origin/master\PYG{o}{)} merged bug fix \PYG{l+m}{101}
+4c805e2 fix bug \PYG{l+m}{101}
+e1e9c68 merge with no\PYGZhy{}ff
+f52c633 add merge
+cf810e4 conflict fixed
+5dc6824 \PYG{p}{\PYGZam{}} simple
+14096d0 AND simple
+b17d20e branch \PYG{n+nb}{test}
+d46f35e remove test.txt
+b84166e add test.txt
+519219b git tracks changes
+e43a48b understand how stage works
+1094adb append GPL
+e475afc add distributed
+eaadf4e wrote a readme file
+\end{Verbatim}

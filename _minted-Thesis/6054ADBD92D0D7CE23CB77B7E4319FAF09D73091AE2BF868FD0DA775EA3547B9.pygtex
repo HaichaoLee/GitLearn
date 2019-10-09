@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git config \PYGZhy{}\PYGZhy{}global user.name \PYG{l+s+s2}{\PYGZdq{}Your Name\PYGZdq{}}
+\PYGZdl{} git config \PYGZhy{}\PYGZhy{}global user.email \PYG{l+s+s2}{\PYGZdq{}email@example.com\PYGZdq{}}
+\end{Verbatim}

@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git status
+On branch master
+Changes not staged \PYG{k}{for} commit:
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git add \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to update what will be committed\PYG{o}{)}
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git checkout \PYGZhy{}\PYGZhy{} \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to discard changes in working directory\PYG{o}{)}
+
+    modified:   readme.txt
+\end{Verbatim}

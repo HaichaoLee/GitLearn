@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git add readme.txt
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}conflict fixed\PYGZdq{}}
+\PYG{o}{[}master cf810e4\PYG{o}{]} conflict fixed
+\end{Verbatim}

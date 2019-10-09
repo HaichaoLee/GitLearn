@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git log \PYGZhy{}\PYGZhy{}graph \PYGZhy{}\PYGZhy{}pretty\PYG{o}{=}oneline \PYGZhy{}\PYGZhy{}abbrev\PYGZhy{}commit
+*   e0ea545 \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master\PYG{o}{)} Merge branch \PYG{l+s+s1}{\PYGZsq{}master\PYGZsq{}} of github.com:michaelliao/learngit
+\PYG{p}{|}\PYG{l+s+se}{\PYGZbs{}}
+\PYG{p}{|} * f005ed4 \PYG{o}{(}origin/master\PYG{o}{)} \PYG{n+nb}{set} \PYG{n+nv}{exit}\PYG{o}{=}\PYG{l+m}{1}
+* \PYG{p}{|} 582d922 add author
+* \PYG{p}{|} \PYG{l+m}{8875536} add comment
+\PYG{p}{|}/
+* d1be385 init hello
+...
+\end{Verbatim}

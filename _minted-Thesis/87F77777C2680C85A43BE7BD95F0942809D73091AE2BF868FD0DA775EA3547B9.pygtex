@@ -1,0 +1,14 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}fix env conflict\PYGZdq{}}
+\PYG{o}{[}dev 57c53ab\PYG{o}{]} fix env conflict
+
+\PYG{l+s+se}{\PYGZbs{}b}egin\PYG{o}{\PYGZob{}}minted\PYG{o}{\PYGZcb{}[}\PYG{n+nv}{frame}\PYG{o}{=}lines, linenos, \PYG{n+nv}{bgcolor}\PYG{o}{=}highlight, \PYG{n+nv}{baselinestretch}\PYG{o}{=}\PYG{l+m}{1}.2, \PYG{n+nv}{framesep}\PYG{o}{=}2mm, breaklines\PYG{o}{]\PYGZob{}}bash\PYG{o}{\PYGZcb{}}
+\PYGZdl{} git push origin dev
+Counting objects: \PYG{l+m}{6}, \PYG{k}{done}.
+Delta compression using up to \PYG{l+m}{4} threads.
+Compressing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{4}/4\PYG{o}{)}, \PYG{k}{done}.
+Writing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{6}/6\PYG{o}{)}, \PYG{l+m}{621} bytes \PYG{p}{|} \PYG{l+m}{621}.00 KiB/s, \PYG{k}{done}.
+Total \PYG{l+m}{6} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}, reused \PYG{l+m}{0} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}
+To github.com:michaelliao/learngit.git
+   7a5e5dd..57c53ab  dev \PYGZhy{}\PYGZgt{} dev
+\end{Verbatim}

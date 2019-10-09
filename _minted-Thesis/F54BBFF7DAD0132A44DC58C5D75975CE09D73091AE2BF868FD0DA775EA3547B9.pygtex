@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git log \PYGZhy{}\PYGZhy{}pretty\PYG{o}{=}oneline
+1094adb7b9b3807259d8cb349e7df1d4d6477073 \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master\PYG{o}{)} append GPL
+e475afc93c209a690c39c13a46716e8fa000c366 add distributed
+eaadf4e385e865d25c48e7ca9c8395c3f7dfaef0 wrote a readme file
+\end{Verbatim}

@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git stash list
+stash@\PYG{o}{\PYGZob{}}\PYG{l+m}{0}\PYG{o}{\PYGZcb{}}: WIP on dev: f52c633 add merge
+\end{Verbatim}

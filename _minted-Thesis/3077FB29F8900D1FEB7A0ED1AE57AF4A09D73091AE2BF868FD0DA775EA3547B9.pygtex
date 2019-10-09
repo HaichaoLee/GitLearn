@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} cat readme.txt
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+提交：
+
+\PYG{l+s+se}{\PYGZbs{}b}egin\PYG{o}{\PYGZob{}}minted\PYG{o}{\PYGZcb{}[}\PYG{n+nv}{frame}\PYG{o}{=}lines, linenos, \PYG{n+nv}{bgcolor}\PYG{o}{=}highlight, \PYG{n+nv}{baselinestretch}\PYG{o}{=}\PYG{l+m}{1}.2, \PYG{n+nv}{framesep}\PYG{o}{=}2mm, breaklines\PYG{o}{]\PYGZob{}}bash\PYG{o}{\PYGZcb{}}
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}git tracks changes\PYGZdq{}}
+\PYG{o}{[}master 519219b\PYG{o}{]} git tracks changes
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+\end{Verbatim}

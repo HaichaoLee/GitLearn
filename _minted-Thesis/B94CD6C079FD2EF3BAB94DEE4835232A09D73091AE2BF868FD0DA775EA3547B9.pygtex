@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git clone git@server:/srv/sample.git
+Cloning into \PYG{l+s+s1}{\PYGZsq{}sample\PYGZsq{}}...
+warning: You appear to have cloned an empty repository.
+\end{Verbatim}

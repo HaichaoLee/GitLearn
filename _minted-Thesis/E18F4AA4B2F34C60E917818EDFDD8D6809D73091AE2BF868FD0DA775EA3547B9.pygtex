@@ -1,0 +1,18 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} cat .git/config
+\PYG{o}{[}core\PYG{o}{]}
+    \PYG{n+nv}{repositoryformatversion} \PYG{o}{=} \PYG{l+m}{0}
+    \PYG{n+nv}{filemode} \PYG{o}{=} \PYG{n+nb}{true}
+    \PYG{n+nv}{bare} \PYG{o}{=} \PYG{n+nb}{false}
+    \PYG{n+nv}{logallrefupdates} \PYG{o}{=} \PYG{n+nb}{true}
+    \PYG{n+nv}{ignorecase} \PYG{o}{=} \PYG{n+nb}{true}
+    \PYG{n+nv}{precomposeunicode} \PYG{o}{=} \PYG{n+nb}{true}
+\PYG{o}{[}remote \PYG{l+s+s2}{\PYGZdq{}origin\PYGZdq{}}\PYG{o}{]}
+    \PYG{n+nv}{url} \PYG{o}{=} git@github.com:michaelliao/learngit.git
+    \PYG{n+nv}{fetch} \PYG{o}{=} +refs/heads/*:refs/remotes/origin/*
+\PYG{o}{[}branch \PYG{l+s+s2}{\PYGZdq{}master\PYGZdq{}}\PYG{o}{]}
+    \PYG{n+nv}{remote} \PYG{o}{=} origin
+    \PYG{n+nv}{merge} \PYG{o}{=} refs/heads/master
+\PYG{o}{[}alias\PYG{o}{]}
+    \PYG{n+nv}{last} \PYG{o}{=} log \PYGZhy{}1
+\end{Verbatim}

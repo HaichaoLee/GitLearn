@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git branch \PYGZhy{}d feature\PYGZhy{}vulcan
+error: The branch \PYG{l+s+s1}{\PYGZsq{}feature\PYGZhy{}vulcan\PYGZsq{}} is not fully merged.
+If you are sure you want to delete it, run \PYG{l+s+s1}{\PYGZsq{}git branch \PYGZhy{}D feature\PYGZhy{}vulcan\PYGZsq{}}.
+\end{Verbatim}

@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git clone git@github.com:michaelliao/gitskills.git
+Cloning into \PYG{l+s+s1}{\PYGZsq{}gitskills\PYGZsq{}}...
+remote: Counting objects: \PYG{l+m}{3}, \PYG{k}{done}.
+remote: Total \PYG{l+m}{3} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}, reused \PYG{l+m}{0} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}, pack\PYGZhy{}reused \PYG{l+m}{3}
+Receiving objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{3}/3\PYG{o}{)}, \PYG{k}{done}.
+\end{Verbatim}

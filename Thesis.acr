@@ -1,0 +1,12 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{PCA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{93}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossentry{SNF}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{93}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glossentry{TDA}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{93}}}%
+\end{theglossary}\glossarypostamble

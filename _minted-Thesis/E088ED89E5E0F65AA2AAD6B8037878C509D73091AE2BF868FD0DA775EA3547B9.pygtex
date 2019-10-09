@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git merge dev
+Updating d46f35e..b17d20e
+Fast\PYGZhy{}forward
+ readme.txt \PYG{p}{|} \PYG{l+m}{1} +
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+\end{Verbatim}

@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} \PYG{n+nb}{cd} gitskills
+\PYGZdl{} ls
+README.md
+\end{Verbatim}

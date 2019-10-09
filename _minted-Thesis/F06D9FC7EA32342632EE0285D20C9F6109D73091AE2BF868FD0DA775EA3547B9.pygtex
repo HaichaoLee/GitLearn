@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} mkdir learngit
+\PYGZdl{} \PYG{n+nb}{cd} learngit
+\PYGZdl{} \PYG{n+nb}{pwd}
+/Users/michael/learngit
+\end{Verbatim}

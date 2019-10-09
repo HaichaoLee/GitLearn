@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}understand how stage works\PYGZdq{}}
+\PYG{o}{[}master e43a48b\PYG{o}{]} understand how stage works
+ \PYG{l+m}{2} files changed, \PYG{l+m}{2} insertions\PYG{o}{(}+\PYG{o}{)}
+ create mode \PYG{l+m}{100644} LICENSE
+\end{Verbatim}

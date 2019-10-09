@@ -1,0 +1,10 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git add readme.txt
+\PYGZdl{} git status
+\PYG{c+c1}{\PYGZsh{} On branch master}
+\PYG{c+c1}{\PYGZsh{} Changes to be committed:}
+\PYG{c+c1}{\PYGZsh{}   (use \PYGZdq{}git reset HEAD \PYGZlt{}file\PYGZgt{}...\PYGZdq{} to unstage)}
+\PYG{c+c1}{\PYGZsh{}}
+\PYG{c+c1}{\PYGZsh{}       modified:   readme.txt}
+\PYG{c+c1}{\PYGZsh{}}
+\end{Verbatim}

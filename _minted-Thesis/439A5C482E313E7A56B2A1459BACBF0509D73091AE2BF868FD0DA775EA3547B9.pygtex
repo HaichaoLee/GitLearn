@@ -1,0 +1,8 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git log \PYGZhy{}\PYGZhy{}graph \PYGZhy{}\PYGZhy{}pretty\PYG{o}{=}oneline \PYGZhy{}\PYGZhy{}abbrev\PYGZhy{}commit
+* 7e61ed4 \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master\PYG{o}{)} add author
+* 3611cfe add comment
+* f005ed4 \PYG{o}{(}origin/master\PYG{o}{)} \PYG{n+nb}{set} \PYG{n+nv}{exit}\PYG{o}{=}\PYG{l+m}{1}
+* d1be385 init hello
+...
+\end{Verbatim}

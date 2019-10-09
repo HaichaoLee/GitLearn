@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git checkout master
+Switched to branch \PYG{l+s+s1}{\PYGZsq{}master\PYGZsq{}}
+Your branch is ahead of \PYG{l+s+s1}{\PYGZsq{}origin/master\PYGZsq{}} by \PYG{l+m}{6} commits.
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git push\PYGZdq{}} to publish your \PYG{n+nb}{local} commits\PYG{o}{)}
+
+\PYGZdl{} git merge \PYGZhy{}\PYGZhy{}no\PYGZhy{}ff \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}merged bug fix 101\PYGZdq{}} issue\PYGZhy{}101
+Merge made by the \PYG{l+s+s1}{\PYGZsq{}recursive\PYGZsq{}} strategy.
+ readme.txt \PYG{p}{|} \PYG{l+m}{2} +\PYGZhy{}
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}, \PYG{l+m}{1} deletion\PYG{o}{(}\PYGZhy{}\PYG{o}{)}
+\end{Verbatim}

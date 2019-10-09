@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git log \PYGZhy{}\PYGZhy{}graph \PYGZhy{}\PYGZhy{}pretty\PYG{o}{=}oneline \PYGZhy{}\PYGZhy{}abbrev\PYGZhy{}commit
+* 582d922 \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master\PYG{o}{)} add author
+* \PYG{l+m}{8875536} add comment
+* d1be385 \PYG{o}{(}origin/master\PYG{o}{)} init hello
+*   e5e69f1 Merge branch \PYG{l+s+s1}{\PYGZsq{}dev\PYGZsq{}}
+\PYG{p}{|}\PYG{l+s+se}{\PYGZbs{}}
+\PYG{p}{|} *   57c53ab \PYG{o}{(}origin/dev, dev\PYG{o}{)} fix env conflict
+\PYG{p}{|} \PYG{p}{|}\PYG{l+s+se}{\PYGZbs{}}
+\PYG{p}{|} \PYG{p}{|} * 7a5e5dd add env
+\PYG{p}{|} * \PYG{p}{|} 7bd91f1 add new env
+...
+\end{Verbatim}

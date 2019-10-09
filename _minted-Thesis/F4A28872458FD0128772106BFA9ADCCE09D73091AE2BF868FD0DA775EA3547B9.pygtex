@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git last
+commit adca45d317e6d8a4b23f9811c3d7b7f0f180bfe2
+Merge: bd6ae48 291bea8
+Author: Michael Liao \PYGZlt{}askxuefeng@gmail.com\PYGZgt{}
+Date:   Thu Aug \PYG{l+m}{22} \PYG{l+m}{22}:49:22 \PYG{l+m}{2013} +0800
+
+    merge \PYG{p}{\PYGZam{}} fix hello.py
+\end{Verbatim}

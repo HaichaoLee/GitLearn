@@ -1,0 +1,12 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git push \PYGZhy{}u origin master
+Counting objects: \PYG{l+m}{20}, \PYG{k}{done}.
+Delta compression using up to \PYG{l+m}{4} threads.
+Compressing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{15}/15\PYG{o}{)}, \PYG{k}{done}.
+Writing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{20}/20\PYG{o}{)}, \PYG{l+m}{1}.64 KiB \PYG{p}{|} \PYG{l+m}{560}.00 KiB/s, \PYG{k}{done}.
+Total \PYG{l+m}{20} \PYG{o}{(}delta \PYG{l+m}{5}\PYG{o}{)}, reused \PYG{l+m}{0} \PYG{o}{(}delta \PYG{l+m}{0}\PYG{o}{)}
+remote: Resolving deltas: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{5}/5\PYG{o}{)}, \PYG{k}{done}.
+To github.com:michaelliao/learngit.git
+ * \PYG{o}{[}new branch\PYG{o}{]}      master \PYGZhy{}\PYGZgt{} master
+Branch \PYG{l+s+s1}{\PYGZsq{}master\PYGZsq{}} \PYG{n+nb}{set} up to track remote branch \PYG{l+s+s1}{\PYGZsq{}master\PYGZsq{}} from \PYG{l+s+s1}{\PYGZsq{}origin\PYGZsq{}}.
+\end{Verbatim}

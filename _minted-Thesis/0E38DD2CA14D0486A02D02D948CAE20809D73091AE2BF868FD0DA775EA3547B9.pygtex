@@ -1,0 +1,20 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} cat env.txt
+env
+
+\PYGZdl{} git add env.txt
+
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}add new env\PYGZdq{}}
+\PYG{o}{[}dev 7bd91f1\PYG{o}{]} add new env
+ \PYG{l+m}{1} file changed, \PYG{l+m}{1} insertion\PYG{o}{(}+\PYG{o}{)}
+ create mode \PYG{l+m}{100644} env.txt
+
+\PYGZdl{} git push origin dev
+To github.com:michaelliao/learngit.git
+ ! \PYG{o}{[}rejected\PYG{o}{]}        dev \PYGZhy{}\PYGZgt{} dev \PYG{o}{(}non\PYGZhy{}fast\PYGZhy{}forward\PYG{o}{)}
+error: failed to push some refs to \PYG{l+s+s1}{\PYGZsq{}git@github.com:michaelliao/learngit.git\PYGZsq{}}
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes \PYG{o}{(}e.g.
+hint: \PYG{l+s+s1}{\PYGZsq{}git pull ...\PYGZsq{}}\PYG{o}{)} before pushing again.
+hint: See the \PYG{l+s+s1}{\PYGZsq{}Note about fast\PYGZhy{}forwards\PYGZsq{}} in \PYG{l+s+s1}{\PYGZsq{}git push \PYGZhy{}\PYGZhy{}help\PYGZsq{}} \PYG{k}{for} details.
+\end{Verbatim}

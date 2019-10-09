@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git clone git@github.com:michaelliao/learngit.git
+Cloning into \PYG{l+s+s1}{\PYGZsq{}learngit\PYGZsq{}}...
+remote: Counting objects: \PYG{l+m}{40}, \PYG{k}{done}.
+remote: Compressing objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{21}/21\PYG{o}{)}, \PYG{k}{done}.
+remote: Total \PYG{l+m}{40} \PYG{o}{(}delta \PYG{l+m}{14}\PYG{o}{)}, reused \PYG{l+m}{40} \PYG{o}{(}delta \PYG{l+m}{14}\PYG{o}{)}, pack\PYGZhy{}reused \PYG{l+m}{0}
+Receiving objects: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{40}/40\PYG{o}{)}, \PYG{k}{done}.
+Resolving deltas: \PYG{l+m}{100}\PYGZpc{} \PYG{o}{(}\PYG{l+m}{14}/14\PYG{o}{)}, \PYG{k}{done}.
+\end{Verbatim}

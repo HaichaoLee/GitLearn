@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git tag \PYGZhy{}d v0.1
+Deleted tag \PYG{l+s+s1}{\PYGZsq{}v0.1\PYGZsq{}} \PYG{o}{(}was f15b0dd\PYG{o}{)}
+\end{Verbatim}

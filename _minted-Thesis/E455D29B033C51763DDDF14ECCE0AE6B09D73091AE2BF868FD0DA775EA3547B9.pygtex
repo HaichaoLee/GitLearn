@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git branch dev
+\PYGZdl{} git checkout dev
+Switched to branch \PYG{l+s+s1}{\PYGZsq{}dev\PYGZsq{}}
+\end{Verbatim}

@@ -1,0 +1,17 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git status
+On branch master
+Your branch is ahead of \PYG{l+s+s1}{\PYGZsq{}origin/master\PYGZsq{}} by \PYG{l+m}{2} commits.
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git push\PYGZdq{}} to publish your \PYG{n+nb}{local} commits\PYG{o}{)}
+
+You have unmerged paths.
+  \PYG{o}{(}fix conflicts and run \PYG{l+s+s2}{\PYGZdq{}git commit\PYGZdq{}}\PYG{o}{)}
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git merge \PYGZhy{}\PYGZhy{}abort\PYGZdq{}} to abort the merge\PYG{o}{)}
+
+Unmerged paths:
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git add \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to mark resolution\PYG{o}{)}
+
+\PYGZca{}\PYGZca{}Iboth modified:   readme.txt
+
+no changes added to commit \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git add\PYGZdq{}} and/or \PYG{l+s+s2}{\PYGZdq{}git commit \PYGZhy{}a\PYGZdq{}}\PYG{o}{)}
+\end{Verbatim}

@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+git config \PYGZhy{}\PYGZhy{}global alias.lg \PYG{l+s+s2}{\PYGZdq{}log \PYGZhy{}\PYGZhy{}color \PYGZhy{}\PYGZhy{}graph \PYGZhy{}\PYGZhy{}pretty=format:\PYGZsq{}\PYGZpc{}Cred\PYGZpc{}h\PYGZpc{}Creset \PYGZhy{}\PYGZpc{}C(yellow)\PYGZpc{}d\PYGZpc{}Creset \PYGZpc{}s \PYGZpc{}Cgreen(\PYGZpc{}cr) \PYGZpc{}C(bold blue)\PYGZlt{}\PYGZpc{}an\PYGZgt{}\PYGZpc{}Creset\PYGZsq{} \PYGZhy{}\PYGZhy{}abbrev\PYGZhy{}commit\PYGZdq{}}
+\end{Verbatim}

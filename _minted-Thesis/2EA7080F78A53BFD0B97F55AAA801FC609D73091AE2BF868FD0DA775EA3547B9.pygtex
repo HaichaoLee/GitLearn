@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git push origin :refs/tags/v0.9
+To github.com:michaelliao/learngit.git
+ \PYGZhy{} \PYG{o}{[}deleted\PYG{o}{]}         v0.9
+\end{Verbatim}

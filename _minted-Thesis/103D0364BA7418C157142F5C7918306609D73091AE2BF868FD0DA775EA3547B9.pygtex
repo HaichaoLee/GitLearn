@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git checkout master
+Switched to branch \PYG{l+s+s1}{\PYGZsq{}master\PYGZsq{}}
+Your branch is ahead of \PYG{l+s+s1}{\PYGZsq{}origin/master\PYGZsq{}} by \PYG{l+m}{6} commits.
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git push\PYGZdq{}} to publish your \PYG{n+nb}{local} commits\PYG{o}{)}
+
+\PYGZdl{} git checkout \PYGZhy{}b issue\PYGZhy{}101
+Switched to a new branch \PYG{l+s+s1}{\PYGZsq{}issue\PYGZhy{}101\PYGZsq{}}
+\end{Verbatim}

@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} cat .gitconfig
+\PYG{o}{[}alias\PYG{o}{]}
+    \PYG{n+nv}{co} \PYG{o}{=} checkout
+    \PYG{n+nv}{ci} \PYG{o}{=} commit
+    \PYG{n+nv}{br} \PYG{o}{=} branch
+    \PYG{n+nv}{st} \PYG{o}{=} status
+\PYG{o}{[}user\PYG{o}{]}
+    \PYG{n+nv}{name} \PYG{o}{=} Your Name
+    \PYG{n+nv}{email} \PYG{o}{=} your@email.com
+\end{Verbatim}

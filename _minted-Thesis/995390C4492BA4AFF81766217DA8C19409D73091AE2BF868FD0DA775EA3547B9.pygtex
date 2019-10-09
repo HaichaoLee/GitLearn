@@ -1,0 +1,15 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git add vulcan.py
+
+\PYGZdl{} git status
+On branch feature\PYGZhy{}vulcan
+Changes to be committed:
+  \PYG{o}{(}use \PYG{l+s+s2}{\PYGZdq{}git reset HEAD \PYGZlt{}file\PYGZgt{}...\PYGZdq{}} to unstage\PYG{o}{)}
+
+\PYGZca{}\PYGZca{}Inew file:   vulcan.py
+
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}add feature vulcan\PYGZdq{}}
+\PYG{o}{[}feature\PYGZhy{}vulcan 287773e\PYG{o}{]} add feature vulcan
+ \PYG{l+m}{1} file changed, \PYG{l+m}{2} insertions\PYG{o}{(}+\PYG{o}{)}
+ create mode \PYG{l+m}{100644} vulcan.py
+\end{Verbatim}

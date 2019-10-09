@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git commit \PYGZhy{}m \PYG{l+s+s2}{\PYGZdq{}wrote a readme file\PYGZdq{}}
+\PYG{o}{[}master \PYG{o}{(}root\PYGZhy{}commit\PYG{o}{)} eaadf4e\PYG{o}{]} wrote a readme file
+ \PYG{l+m}{1} file changed, \PYG{l+m}{2} insertions\PYG{o}{(}+\PYG{o}{)}
+ create mode \PYG{l+m}{100644} readme.txt
+\end{Verbatim}

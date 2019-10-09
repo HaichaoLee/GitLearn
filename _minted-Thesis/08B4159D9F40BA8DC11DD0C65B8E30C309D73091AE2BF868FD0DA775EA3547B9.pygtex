@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZdl{} git reflog
+e475afc HEAD@\PYG{o}{\PYGZob{}}\PYG{l+m}{1}\PYG{o}{\PYGZcb{}}: reset: moving to HEAD\PYGZca{}
+1094adb \PYG{o}{(}HEAD \PYGZhy{}\PYGZgt{} master\PYG{o}{)} HEAD@\PYG{o}{\PYGZob{}}\PYG{l+m}{2}\PYG{o}{\PYGZcb{}}: commit: append GPL
+e475afc HEAD@\PYG{o}{\PYGZob{}}\PYG{l+m}{3}\PYG{o}{\PYGZcb{}}: commit: add distributed
+eaadf4e HEAD@\PYG{o}{\PYGZob{}}\PYG{l+m}{4}\PYG{o}{\PYGZcb{}}: commit \PYG{o}{(}initial\PYG{o}{)}: wrote a readme file
+\end{Verbatim}
